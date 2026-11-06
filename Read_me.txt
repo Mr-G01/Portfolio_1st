@@ -16,5 +16,5 @@ SEU_IS_22_ICT_029/
 
 2. The URL of your hosted website (Optional)
 
-	https://mr-g01.github.io/web_host/
+	https://mr-g01.github.io/Portfolio_1st/
 
